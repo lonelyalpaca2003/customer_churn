@@ -29,9 +29,7 @@ Customer Feedback: Complain, Satisfaction Score, Card Type, Points Earned
 2. Models Evaluated
 
      Logistic Regression
-     Random Forest
      XGBoost
-     LightGBM
 
 
 ### How to Run
